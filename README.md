@@ -1,6 +1,6 @@
 # Security Studies Curricula 🎓🔒
 
-Open-source self-study paths for prior learning assessments in security studies, international relations, and related fields.
+Open-source self-study paths for independent study in security studies, international relations, and related fields.
 
 [![CC BY 4.0][cc-by-shield]][cc-by]  
 *This work is licensed for free use, adaptation, and sharing with attribution.*
